@@ -2,6 +2,13 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
+			"type": "java",
+			"name": "ControleFinanceiroApplication",
+			"request": "launch",
+			"mainClass": "com.api.fatec.controle_financeiro.ControleFinanceiroApplication",
+			"projectName": "controle-financeiro"
+		},
+		{
 			"type": "totvs_language_debug",
 			"request": "launch",
 			"name": "Depuração do idioma TOTVS",
