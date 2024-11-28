@@ -1,0 +1,27 @@
+{
+  "name": "Fornecedor Exemplo"
+}
+{
+  "emissao": "2024-10-26",
+  "vencimento": "2024-11-26",
+  "fornecedor": {
+    "id": 1  // ID do fornecedor criado anteriormente
+  },
+  "valor": 1500.00
+}
+ 
+
+ 
+ 
+{
+    "name": "Nome do Cliente"
+}
+
+{
+  "emissao": "2024-10-26",
+  "vencimento": "2024-11-25",
+  "valor": 200.00,
+  "cliente": {
+    "id": 1  // Substitua pelo ID do cliente que você criou
+  }
+}
