@@ -9,6 +9,16 @@
             "projectName": "controle-financeiro",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ControleFinanceiroApplication<controle-financeiro>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.api.fatec.controle_financeiro.ControleFinanceiroApplication",
+            "projectName": "controle-financeiro",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
